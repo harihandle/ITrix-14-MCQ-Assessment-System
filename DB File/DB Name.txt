@@ -1,4 +1,0 @@
-Host	mysql5.000webhost.com
-DB	a3918997_itrixx
-User	a3918997_admin
-Password	kickass2
